@@ -1,0 +1,4 @@
+/* Configuración para utilizar tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
